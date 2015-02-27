@@ -85,7 +85,7 @@ class Trainer:
       self._eqs += [(x, '^', 2) for x in range(10, 31)]
     if 'root' in self._mode:
       self._eqs += [(y, '√', x**y) for x in range(1, 10) for y in range(2, 4)]
-      self._eqs += [(2, '√', x**2) for x in range(10, 21)]
+      self._eqs += [(2, '√', x**2) for x in range(10, 31)]
     if len(self._eqs) == 0:
       raise ValueError('%s is not supported.\nKnown parameters are: mult, multbig, pow, root.' % self._mode)
     random.shuffle(self._eqs)
