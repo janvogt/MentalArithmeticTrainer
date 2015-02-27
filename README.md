@@ -11,11 +11,11 @@ You need to have python 3.x installed and in your path.
 
 If no exercise type is given multiplication of numbers between 1 and 9 is selected.
 
-Availiable multiplication types:
+Availiable excercise types:
 
 - **mult** - multiplication of numbers between 1 and 9
 - **multbig** - multiplication of numbers between 1 and 20
-- **pow** squares of numbers between 1 and 20 and cubes of numbers between 1 and 9
+- **pow** - squares of numbers between 1 and 20 and cubes of numbers between 1 and 9
 - **root** - square roots of numbers between 1 and 20 and cubic roots of numbers between 1 and 9
 
 You can combine multible excercise types by separating them with spaces.
