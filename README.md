@@ -3,7 +3,7 @@ Simple yet effective trainer for mental arithmetic. Stay fit, stay smart ;)
 
 #Dependencies
 
-You need to have python 3.x installed and in your path.
+You need to have python 3.x as your default python version.
 
 #Usage
 
